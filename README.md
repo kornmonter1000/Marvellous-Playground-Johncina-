@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("TITLE", "Midnight")
-local Tab = Window:NewTab("Moon Knight")
+local Tab = Window:NewTab("Johncina")
     local Section = Tab:NewSection("Skill")
         Section:NewKeybind("Stab", "KeybindInfo", Enum.KeyCode.Z, function()
             local args = {
